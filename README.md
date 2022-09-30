@@ -6,7 +6,7 @@ This is a node application for creating a personalized README file that uses the
 
 ### Links
 
-Video Link Showing Functionality is [here](./Develop/video/images/README-Generator.mp4)
+Video Link Showing Functionality is [here](./Develop/video%3Aimages/README-Generator.mp4)
 
 #### Screenshots
 
