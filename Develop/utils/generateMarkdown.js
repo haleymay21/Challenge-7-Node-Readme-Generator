@@ -64,8 +64,9 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
 
-## ${renderLicenseSection(data.license)} ${renderLicenseBadge(data.license)}
+## ${renderLicenseSection(data.license)}  ${renderLicenseBadge(data.license)}
 ### ${renderLicenseLink(data.license)}
+
 
 ## Description
 ${data.description}
@@ -95,7 +96,7 @@ ${data.testing}
 
 ## Questions:
  - Github: [${data.github}](https://github.com/${data.github})
- - Email: [${data.email}]`;
+ - Email: [${data.email}](mailto:user@example.com) `;
 }
 
 module.exports = generateMarkdown;
