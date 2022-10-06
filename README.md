@@ -1,4 +1,4 @@
-# Challenge5-calendar
+# README-Generator
 
 ## Description
 
@@ -7,6 +7,7 @@ This is a node application for creating a personalized README file that uses the
 ### Links
 
 Video Link Showing Functionality is [here](./Develop/video%3Aimages/README-Generator.mp4)
+Link to Example README is [here](./Develop/sample-readme/README.md)
 
 #### Screenshots
 
